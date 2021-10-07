@@ -17,9 +17,9 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ```
 
 #### Constraints:
-* 0 <= nums.length <= 3 * 104
-* -100 <= nums[i] <= 100
-* nums is sorted in non-decreasing order.
+* `0 <= nums.length <= 3 * 104`
+* `-100 <= nums[i] <= 100`
+* `nums is sorted in non-decreasing order.`
 
 #### My Solution
 ```java
