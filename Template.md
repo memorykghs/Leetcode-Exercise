@@ -1,21 +1,16 @@
 # 01 - Remove Duplicates from Sorted Array
 
-#### Example
-```
+* [Remove Duplicates from Sorted Arra](https://leetcode.com/problems/count-sorted-vowel-strings/)
 
-```
+## Related Topics
 
-#### Constraints:
-* 0 <= nums.length <= 3 * 104
-* -100 <= nums[i] <= 100
-* nums is sorted in non-decreasing order.
 
-#### My Solution
+## My Solution
 ```java
 
 ```
 
-#### Well Solution
+## Well Solution
 ```java
 
 ```
