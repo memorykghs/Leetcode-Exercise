@@ -1,4 +1,4 @@
 # Leetcode-Exercise
 
 #### Dynamic Programming
-* Climbing Stair
+* 70 - Climbing Stair
